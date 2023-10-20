@@ -48,7 +48,7 @@ void mergeSort(int array[], int startIndex, int endIndex){
 
 void runMergeSort()
 {
-    int test[] = {1,2,3,4,3,6};
+    int test[] = {1,6,3,5,2,7};
 
     for (int i = 0; i < 6; i++)
     { std::cout << test[i] << " ";}
